@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ef96c3;
+}
+
+#about {
+  text-align: center;
+}
+
+footer {
+  background-color: #de4e96;
+}
+
+section {
+  padding-top: 5rem;
+}
