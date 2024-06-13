@@ -11,10 +11,41 @@ body {
   text-align: center;
 }
 
+#card1:hover {
+    opacity: .7;
+    transform:scale(.95);
+} 
+
+#card2:hover {
+    opacity: .7;
+    transform:scale(.95);
+} 
+
+#card3:hover {
+    opacity: .7;
+    transform:scale(.95);
+} 
+
+#card4:hover {
+    opacity: .7;
+    transform:scale(.95);
+} 
+
+#card5:hover {
+    opacity: .7;
+    transform:scale(.95);
+} 
+
 footer {
   background-color: #de4e96;
+  margin: 0;
+  padding: 10px 0 10px 0;
 }
 
 section {
   padding-top: 3rem;
+}
+
+button:hover {
+  transform: scale(0.85);
 }
